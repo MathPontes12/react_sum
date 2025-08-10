@@ -1,4 +1,4 @@
 
-export const Sum = ({ n1, n2, result }) => (
-    <p>Sum of {n1} and {n2} is {result}</p>
+export const Sum = ({ a , b }) => (
+    <p>Sum of {a} and {b} is {a + b}</p>
 )
